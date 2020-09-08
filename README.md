@@ -2,3 +2,4 @@
 - [Problem 1: Multiples of 3 and 5](problems/problem-1.js)
 - [Problem 2: Even Fibonacci Numbers](problems/problem-2.js)
 - [Problem 3: Largest prime factor](problems/problem-3.js)
+- [Problem 4: Largest palindrome product](problems/problem-4.js)
