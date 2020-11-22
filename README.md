@@ -6,3 +6,4 @@
 - [Problem 5: Smallest multiple](problems/problem-5.js)
 - [Problem 6: Sum square difference](problems/problem-6.js)
 - [Problem 7: 10001st prime](problems/problem-7.js)
+- [Problem 8: Largest product in a series](problems/problem-8.js)
