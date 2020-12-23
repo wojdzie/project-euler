@@ -9,3 +9,4 @@
 - [Problem 8: Largest product in a series](problems/problem-8.js)
 - [Problem 9: Special Pythagorean triplet](problems/problem-9.js)
 - [Problem 10: Summation of primes](problems/problem-10.js)
+- [Problem 11: Largest product in a grid](problems/problem-11.js)
